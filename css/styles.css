@@ -1,0 +1,35 @@
+body{
+    background-color: #1aa6b7;
+}
+.wrapper{
+    min-height: 720px;
+    width: 1280px;
+    margin: 0 auto;
+    background-color: #d9ecf2;
+}
+.content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 50px;
+    padding: 20px;
+    text-align: center;
+    margin-left: -50px;
+}
+.header{
+    background-color: #ff414d;
+    height: 50px;
+    width: 100%;
+}
+.footer{
+    background-color: #ff414d;
+    height: 50px;
+    width: 100%;
+}
+.footer p{
+    padding-top: 10px;
+    color: white;
+}
+p,h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
