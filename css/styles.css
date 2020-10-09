@@ -20,6 +20,16 @@ body{
     height: 50px;
     width: 100%;
 }
+.header a{
+    margin-left: 640px;
+    padding-top: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.header a:hover{
+    color:blue;
+}
 .footer{
     background-color: #ff414d;
     height: 50px;
