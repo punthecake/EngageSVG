@@ -6,7 +6,7 @@
     <body>
         <div class="wrapper">
             <div class="header">
-            <a href="https://github.com/punthecake/EngageSVG">GITHUB</a>
+              <a href="https://github.com/punthecake/EngageSVG">GITHUB</a>
             </div>
             <h1>Basic SVG Elements</h1>
             <div class="content">
